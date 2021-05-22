@@ -1,3 +1,2 @@
 # HTT
-Trevor Poirier
-Coding Challenge for High Touch Technologies
+Trevor Poirier: Coding Challenge for High Touch Technologies
